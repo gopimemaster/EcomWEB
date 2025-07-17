@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EComWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e6b3f77d6062f1fd1d7e2896f2a39824a2b22ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6b5f537f947095c6160d387d42c332dc6334a9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("EComWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EComWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

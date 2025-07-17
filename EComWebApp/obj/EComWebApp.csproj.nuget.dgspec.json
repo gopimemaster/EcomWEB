@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Source\\Repos\\EcomWEB\\EComWebApp\\EComWebApp.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\EcomWEB\\EComWebApp\\EComWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Source\\Repos\\EcomWEB\\EComWebApp\\EComWebApp.csproj": {
+    "C:\\Users\\HP\\source\\repos\\EcomWEB\\EComWebApp\\EComWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\EcomWEB\\EComWebApp\\EComWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\EcomWEB\\EComWebApp\\EComWebApp.csproj",
         "projectName": "EComWebApp",
-        "projectPath": "C:\\Users\\HP\\Source\\Repos\\EcomWEB\\EComWebApp\\EComWebApp.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\EcomWEB\\EComWebApp\\EComWebApp.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Source\\Repos\\EcomWEB\\EComWebApp\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\EcomWEB\\EComWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
